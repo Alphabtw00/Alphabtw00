@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![](https://visitcount.itsvg.in/api?id=alphabtw00&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **Alphabtw00/Alphabtw00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
